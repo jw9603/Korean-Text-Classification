@@ -1,1 +1,1 @@
-# NLP_Study
+# Korean_Text_Classification
