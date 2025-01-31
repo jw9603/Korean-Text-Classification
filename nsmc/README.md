@@ -186,7 +186,7 @@ positive        인트라젠이 새로 들어왔다고해서 판매가격을물�
 #### 4-3. make_ground_truth.sh
 - make ground_truth test data included with only columns(labels).
 
-#### 4. Get Accuracy
+#### 4-4. Get Accuracy
 - take the Accuracy.
 ```
 python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt ./metric/ground_truth.result.txt
@@ -200,7 +200,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
   </tr>
   <tr>
     <th>Bidirectional LSTM <a href="">[link]</a></th>
-    <th>0.9036</th>
+    <th></th>
     
   </tr>
 </table>
@@ -211,7 +211,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
   </tr>
   <tr>
     <th>CNN <a href="">[link]</a></th>
-    <th>0.9093</th>
+    <th></th>
     
   </tr>
 </table>
