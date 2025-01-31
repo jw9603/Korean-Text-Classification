@@ -200,7 +200,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
   </tr>
   <tr>
     <th>Bidirectional LSTM <a href="">[link]</a></th>
-    <th></th>
+    <th>0.8612</th>
     
   </tr>
 </table>
@@ -211,7 +211,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
   </tr>
   <tr>
     <th>CNN <a href="">[link]</a></th>
-    <th></th>
+    <th>0.8630</th>
     
   </tr>
 </table>
