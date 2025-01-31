@@ -1,0 +1,1 @@
+cut -f2 ./data/review.sorted.refined.tok.shuf.test.tsv | shuf | head -n 20 | python ./classify.py --model_fn ./result_model/ensemble_model.20250130_184448.pth --gpu_id 0

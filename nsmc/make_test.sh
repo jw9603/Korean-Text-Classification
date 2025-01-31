@@ -1,0 +1,1 @@
+cat ./data/review.sorted.refined.tok.shuf.test.tsv | awk -F'\t' '{print $2}' | python classify.py --model_fn ./result_model/ensemble_model.20250130_184448.pth --gpu_id 0 | awk -F'\t' '{print $1}' > ./metric/ensemble_model.20250130_184448.pth.result.txt
