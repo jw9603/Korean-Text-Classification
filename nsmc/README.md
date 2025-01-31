@@ -227,6 +227,9 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
   </tr>
 </table>
 
+### 5. Colab Usage
+If you prefer running the NSMC Classification pipeline on Google Colab, you can use our pre-configured Jupyter Notebook.
+
 ## Reference
 - https://github.com/kh-kim
 - [Kim, Convolutional neural networks for sentence classification, EMNLP, 2014](https://arxiv.org/abs/1408.5882)
