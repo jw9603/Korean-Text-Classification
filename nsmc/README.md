@@ -199,7 +199,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
     <th>Test acc.</th>
   </tr>
   <tr>
-    <th>Bidirectional LSTM <a href="">[link]</a></th>
+    <th>Bidirectional LSTM <a href="https://drive.google.com/drive/folders/1-7pq7rCsP4GBN_muqhP4egjBqKrMC5Gy?usp=drive_link">[link]</a></th>
     <th>0.8612</th>
     
   </tr>
@@ -210,7 +210,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
     <th>Test acc.</th>
   </tr>
   <tr>
-    <th>CNN <a href="">[link]</a></th>
+    <th>CNN <a href="https://drive.google.com/drive/folders/1-7pq7rCsP4GBN_muqhP4egjBqKrMC5Gy?usp=drive_link">[link]</a></th>
     <th>0.8630</th>
     
   </tr>
@@ -221,7 +221,7 @@ python ./get_accuracy.py ./metric/ensemble_model.20250130_184448.pth.result.txt 
     <th>Test acc.</th>
   </tr>
   <tr>
-    <th>Ensemble <a href="">[link]</a></th>
+    <th>Ensemble <a href="https://drive.google.com/drive/folders/1-7pq7rCsP4GBN_muqhP4egjBqKrMC5Gy?usp=drive_link">[link]</a></th>
     <th>0.8789</th>
     
   </tr>
